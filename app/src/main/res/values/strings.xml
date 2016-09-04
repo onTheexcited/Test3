@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="buttonOK">确认</string>
+    <string name="buttonCancel">取消</string>
+
+    <string name="choose1">用户名</string>
+    <string name="choose2">user id</string>
+    <string name="choose3">密码</string>
+    <string name="choose4">password</string>
+    <string name="choose5">你会的语言有？</string>
+    <string name="english">英语</string>
+    <string name="chinese">汉语</string>
+    <string name="japanese">日语</string>
+    <string name="choose6">您的性别是？</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+
+    <string name="title_activity_main">MainActivity</string>
+</resources>
